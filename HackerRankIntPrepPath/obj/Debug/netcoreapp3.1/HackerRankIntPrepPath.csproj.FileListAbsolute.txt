@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HackerRankIntPrepPath\bin\Debug\netcoreapp3.1\HackerRankIntPrepPath.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HackerRankIntPrepPath\bin\Debug\netcoreapp3.1\HackerRankIntPrepPath.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HackerRankIntPrepPath\bin\Debug\netcoreapp3.1\HackerRankIntPrepPath.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HackerRankIntPrepPath\bin\Debug\netcoreapp3.1\HackerRankIntPrepPath.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HackerRankIntPrepPath\bin\Debug\netcoreapp3.1\HackerRankIntPrepPath.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HackerRankIntPrepPath\bin\Debug\netcoreapp3.1\HackerRankIntPrepPath.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HackerRankIntPrepPath\obj\Debug\netcoreapp3.1\HackerRankIntPrepPath.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HackerRankIntPrepPath\obj\Debug\netcoreapp3.1\HackerRankIntPrepPath.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HackerRankIntPrepPath\obj\Debug\netcoreapp3.1\HackerRankIntPrepPath.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HackerRankIntPrepPath\obj\Debug\netcoreapp3.1\HackerRankIntPrepPath.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HackerRankIntPrepPath\obj\Debug\netcoreapp3.1\HackerRankIntPrepPath.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HackerRankIntPrepPath\obj\Debug\netcoreapp3.1\HackerRankIntPrepPath.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HackerRankIntPrepPath\obj\Debug\netcoreapp3.1\HackerRankIntPrepPath.genruntimeconfig.cache

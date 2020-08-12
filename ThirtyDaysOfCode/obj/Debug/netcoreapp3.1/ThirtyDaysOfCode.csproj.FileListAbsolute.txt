@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ThirtyDaysOfCode\bin\Debug\netcoreapp3.1\ThirtyDaysOfCode.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ThirtyDaysOfCode\bin\Debug\netcoreapp3.1\ThirtyDaysOfCode.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ThirtyDaysOfCode\bin\Debug\netcoreapp3.1\ThirtyDaysOfCode.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ThirtyDaysOfCode\bin\Debug\netcoreapp3.1\ThirtyDaysOfCode.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ThirtyDaysOfCode\bin\Debug\netcoreapp3.1\ThirtyDaysOfCode.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ThirtyDaysOfCode\bin\Debug\netcoreapp3.1\ThirtyDaysOfCode.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ThirtyDaysOfCode\obj\Debug\netcoreapp3.1\ThirtyDaysOfCode.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ThirtyDaysOfCode\obj\Debug\netcoreapp3.1\ThirtyDaysOfCode.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ThirtyDaysOfCode\obj\Debug\netcoreapp3.1\ThirtyDaysOfCode.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ThirtyDaysOfCode\obj\Debug\netcoreapp3.1\ThirtyDaysOfCode.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ThirtyDaysOfCode\obj\Debug\netcoreapp3.1\ThirtyDaysOfCode.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ThirtyDaysOfCode\obj\Debug\netcoreapp3.1\ThirtyDaysOfCode.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ThirtyDaysOfCode\obj\Debug\netcoreapp3.1\ThirtyDaysOfCode.genruntimeconfig.cache
