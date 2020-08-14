@@ -1,0 +1,12 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1DataTypes\bin\Debug\netcoreapp3.1\Day1DataTypes.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1DataTypes\bin\Debug\netcoreapp3.1\Day1DataTypes.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1DataTypes\bin\Debug\netcoreapp3.1\Day1DataTypes.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1DataTypes\bin\Debug\netcoreapp3.1\Day1DataTypes.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1DataTypes\bin\Debug\netcoreapp3.1\Day1DataTypes.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1DataTypes\bin\Debug\netcoreapp3.1\Day1DataTypes.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1DataTypes\obj\Debug\netcoreapp3.1\Day1DataTypes.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1DataTypes\obj\Debug\netcoreapp3.1\Day1DataTypes.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1DataTypes\obj\Debug\netcoreapp3.1\Day1DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1DataTypes\obj\Debug\netcoreapp3.1\Day1DataTypes.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1DataTypes\obj\Debug\netcoreapp3.1\Day1DataTypes.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1DataTypes\obj\Debug\netcoreapp3.1\Day1DataTypes.genruntimeconfig.cache

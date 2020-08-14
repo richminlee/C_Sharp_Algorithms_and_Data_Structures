@@ -1,0 +1,12 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0HelloWorld\bin\Debug\netcoreapp3.1\Day0HelloWorld.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0HelloWorld\bin\Debug\netcoreapp3.1\Day0HelloWorld.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0HelloWorld\bin\Debug\netcoreapp3.1\Day0HelloWorld.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0HelloWorld\bin\Debug\netcoreapp3.1\Day0HelloWorld.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0HelloWorld\bin\Debug\netcoreapp3.1\Day0HelloWorld.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0HelloWorld\bin\Debug\netcoreapp3.1\Day0HelloWorld.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0HelloWorld\obj\Debug\netcoreapp3.1\Day0HelloWorld.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0HelloWorld\obj\Debug\netcoreapp3.1\Day0HelloWorld.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0HelloWorld\obj\Debug\netcoreapp3.1\Day0HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0HelloWorld\obj\Debug\netcoreapp3.1\Day0HelloWorld.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0HelloWorld\obj\Debug\netcoreapp3.1\Day0HelloWorld.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0HelloWorld\obj\Debug\netcoreapp3.1\Day0HelloWorld.genruntimeconfig.cache
