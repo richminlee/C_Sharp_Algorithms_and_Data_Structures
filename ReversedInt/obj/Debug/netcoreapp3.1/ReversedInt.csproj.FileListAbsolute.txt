@@ -1,0 +1,12 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReversedInt\bin\Debug\netcoreapp3.1\ReversedInt.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReversedInt\bin\Debug\netcoreapp3.1\ReversedInt.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReversedInt\bin\Debug\netcoreapp3.1\ReversedInt.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReversedInt\bin\Debug\netcoreapp3.1\ReversedInt.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReversedInt\bin\Debug\netcoreapp3.1\ReversedInt.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReversedInt\bin\Debug\netcoreapp3.1\ReversedInt.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReversedInt\obj\Debug\netcoreapp3.1\ReversedInt.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReversedInt\obj\Debug\netcoreapp3.1\ReversedInt.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReversedInt\obj\Debug\netcoreapp3.1\ReversedInt.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReversedInt\obj\Debug\netcoreapp3.1\ReversedInt.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReversedInt\obj\Debug\netcoreapp3.1\ReversedInt.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReversedInt\obj\Debug\netcoreapp3.1\ReversedInt.genruntimeconfig.cache

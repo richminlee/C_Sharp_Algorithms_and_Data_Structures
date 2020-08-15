@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRankProblemSolvingPat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThirtyDaysOfCode", "..\ThirtyDaysOfCode\ThirtyDaysOfCode.csproj", "{2803443B-B046-47C6-90C8-32E12E2F781E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day0HelloWorld", "..\Day0HelloWorld\Day0HelloWorld.csproj", "{2780AE13-2D65-411B-A676-1E0E15546D09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day0HelloWorld", "..\Day0HelloWorld\Day0HelloWorld.csproj", "{2780AE13-2D65-411B-A676-1E0E15546D09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1DataTypes", "..\Day1DataTypes\Day1DataTypes.csproj", "{D54CB18A-435C-4C56-818E-F2ED2B69DD0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1DataTypes", "..\Day1DataTypes\Day1DataTypes.csproj", "{D54CB18A-435C-4C56-818E-F2ED2B69DD0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversedInt", "..\ReversedInt\ReversedInt.csproj", "{A18A1C32-99B1-45B2-B27A-ED27DAD1FAA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D54CB18A-435C-4C56-818E-F2ED2B69DD0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D54CB18A-435C-4C56-818E-F2ED2B69DD0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D54CB18A-435C-4C56-818E-F2ED2B69DD0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A18A1C32-99B1-45B2-B27A-ED27DAD1FAA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18A1C32-99B1-45B2-B27A-ED27DAD1FAA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18A1C32-99B1-45B2-B27A-ED27DAD1FAA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18A1C32-99B1-45B2-B27A-ED27DAD1FAA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

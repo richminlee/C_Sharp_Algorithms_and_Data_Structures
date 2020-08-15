@@ -10,3 +10,4 @@ C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1Dat
 C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1DataTypes\obj\Debug\netcoreapp3.1\Day1DataTypes.dll
 C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1DataTypes\obj\Debug\netcoreapp3.1\Day1DataTypes.pdb
 C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1DataTypes\obj\Debug\netcoreapp3.1\Day1DataTypes.genruntimeconfig.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day1DataTypes\obj\Debug\netcoreapp3.1\Day1DataTypes.csprojAssemblyReference.cache

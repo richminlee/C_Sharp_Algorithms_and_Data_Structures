@@ -10,3 +10,4 @@ C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0Hel
 C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0HelloWorld\obj\Debug\netcoreapp3.1\Day0HelloWorld.dll
 C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0HelloWorld\obj\Debug\netcoreapp3.1\Day0HelloWorld.pdb
 C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0HelloWorld\obj\Debug\netcoreapp3.1\Day0HelloWorld.genruntimeconfig.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Day0HelloWorld\obj\Debug\netcoreapp3.1\Day0HelloWorld.csprojAssemblyReference.cache
