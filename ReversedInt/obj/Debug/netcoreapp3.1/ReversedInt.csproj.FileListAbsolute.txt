@@ -10,3 +10,4 @@ C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Reverse
 C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReversedInt\obj\Debug\netcoreapp3.1\ReversedInt.dll
 C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReversedInt\obj\Debug\netcoreapp3.1\ReversedInt.pdb
 C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReversedInt\obj\Debug\netcoreapp3.1\ReversedInt.genruntimeconfig.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReversedInt\obj\Debug\netcoreapp3.1\ReversedInt.csprojAssemblyReference.cache
