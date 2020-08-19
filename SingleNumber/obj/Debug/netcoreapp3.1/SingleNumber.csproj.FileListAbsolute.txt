@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.genruntimeconfig.cache
