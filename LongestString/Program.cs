@@ -5,23 +5,17 @@ namespace LongestString
 {
     class Program
     {
-        //public static string LongestString(string input)
-        //{
-        //    string result = "";
-        //    string[] allStrings = input.Split(' ');
-        //    for(int i = 0; i< allStrings.Length; i++)
-        //    {
-        //        if(result.Length < allStrings[i].Length)
-        //        {
-        //            result = allStrings[i];
-        //        }
-        //    }
-        //    return result;
-        //}
-        public static int LongestString(string input)
+        public static string LongestString(string input)
         {
+            string result = "";
             string[] allStrings = input.Split(' ');
-            int result = allStrings.Length;
+            for (int i = 0; i < allStrings.Length; i++)
+            {
+                if (result.Length < allStrings[i].Length)
+                {
+                    result = allStrings[i];
+                }
+            }
             return result;
         }
         static void Main(string[] args)
