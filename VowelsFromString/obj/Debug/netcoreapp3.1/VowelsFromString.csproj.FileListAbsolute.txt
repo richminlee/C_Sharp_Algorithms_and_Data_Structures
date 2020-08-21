@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\VowelsFromString\bin\Debug\netcoreapp3.1\VowelsFromString.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\VowelsFromString\bin\Debug\netcoreapp3.1\VowelsFromString.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\VowelsFromString\bin\Debug\netcoreapp3.1\VowelsFromString.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\VowelsFromString\bin\Debug\netcoreapp3.1\VowelsFromString.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\VowelsFromString\bin\Debug\netcoreapp3.1\VowelsFromString.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\VowelsFromString\bin\Debug\netcoreapp3.1\VowelsFromString.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\VowelsFromString\obj\Debug\netcoreapp3.1\VowelsFromString.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\VowelsFromString\obj\Debug\netcoreapp3.1\VowelsFromString.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\VowelsFromString\obj\Debug\netcoreapp3.1\VowelsFromString.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\VowelsFromString\obj\Debug\netcoreapp3.1\VowelsFromString.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\VowelsFromString\obj\Debug\netcoreapp3.1\VowelsFromString.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\VowelsFromString\obj\Debug\netcoreapp3.1\VowelsFromString.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\VowelsFromString\obj\Debug\netcoreapp3.1\VowelsFromString.genruntimeconfig.cache

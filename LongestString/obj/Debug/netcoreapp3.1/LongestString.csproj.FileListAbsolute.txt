@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LongestString\bin\Debug\netcoreapp3.1\LongestString.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LongestString\bin\Debug\netcoreapp3.1\LongestString.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LongestString\bin\Debug\netcoreapp3.1\LongestString.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LongestString\bin\Debug\netcoreapp3.1\LongestString.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LongestString\bin\Debug\netcoreapp3.1\LongestString.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LongestString\bin\Debug\netcoreapp3.1\LongestString.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LongestString\obj\Debug\netcoreapp3.1\LongestString.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LongestString\obj\Debug\netcoreapp3.1\LongestString.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LongestString\obj\Debug\netcoreapp3.1\LongestString.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LongestString\obj\Debug\netcoreapp3.1\LongestString.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LongestString\obj\Debug\netcoreapp3.1\LongestString.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LongestString\obj\Debug\netcoreapp3.1\LongestString.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LongestString\obj\Debug\netcoreapp3.1\LongestString.genruntimeconfig.cache
