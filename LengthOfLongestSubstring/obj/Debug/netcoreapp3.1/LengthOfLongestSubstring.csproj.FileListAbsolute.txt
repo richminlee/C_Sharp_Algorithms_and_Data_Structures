@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LengthOfLongestSubstring\bin\Debug\netcoreapp3.1\LengthOfLongestSubstring.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LengthOfLongestSubstring\bin\Debug\netcoreapp3.1\LengthOfLongestSubstring.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LengthOfLongestSubstring\bin\Debug\netcoreapp3.1\LengthOfLongestSubstring.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LengthOfLongestSubstring\bin\Debug\netcoreapp3.1\LengthOfLongestSubstring.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LengthOfLongestSubstring\bin\Debug\netcoreapp3.1\LengthOfLongestSubstring.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LengthOfLongestSubstring\bin\Debug\netcoreapp3.1\LengthOfLongestSubstring.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LengthOfLongestSubstring\obj\Debug\netcoreapp3.1\LengthOfLongestSubstring.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LengthOfLongestSubstring\obj\Debug\netcoreapp3.1\LengthOfLongestSubstring.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LengthOfLongestSubstring\obj\Debug\netcoreapp3.1\LengthOfLongestSubstring.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LengthOfLongestSubstring\obj\Debug\netcoreapp3.1\LengthOfLongestSubstring.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LengthOfLongestSubstring\obj\Debug\netcoreapp3.1\LengthOfLongestSubstring.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LengthOfLongestSubstring\obj\Debug\netcoreapp3.1\LengthOfLongestSubstring.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\LengthOfLongestSubstring\obj\Debug\netcoreapp3.1\LengthOfLongestSubstring.genruntimeconfig.cache
