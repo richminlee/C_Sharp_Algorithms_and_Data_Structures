@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FrequencyCounter\bin\Debug\netcoreapp3.1\FrequencyCounter.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FrequencyCounter\bin\Debug\netcoreapp3.1\FrequencyCounter.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FrequencyCounter\bin\Debug\netcoreapp3.1\FrequencyCounter.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FrequencyCounter\bin\Debug\netcoreapp3.1\FrequencyCounter.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FrequencyCounter\bin\Debug\netcoreapp3.1\FrequencyCounter.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FrequencyCounter\bin\Debug\netcoreapp3.1\FrequencyCounter.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FrequencyCounter\obj\Debug\netcoreapp3.1\FrequencyCounter.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FrequencyCounter\obj\Debug\netcoreapp3.1\FrequencyCounter.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FrequencyCounter\obj\Debug\netcoreapp3.1\FrequencyCounter.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FrequencyCounter\obj\Debug\netcoreapp3.1\FrequencyCounter.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FrequencyCounter\obj\Debug\netcoreapp3.1\FrequencyCounter.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FrequencyCounter\obj\Debug\netcoreapp3.1\FrequencyCounter.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FrequencyCounter\obj\Debug\netcoreapp3.1\FrequencyCounter.genruntimeconfig.cache
