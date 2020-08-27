@@ -35,13 +35,13 @@ namespace FrequencyCounter
                     frequencyCounter2[arr2[i]]++;
                 }
             }
-            foreach(var key in frequencyCounter1)
+            foreach(var pair in frequencyCounter1)
             {
-                if (!frequencyCounter2.ContainsKey(key.Key * key.Key))
+                if (!frequencyCounter2.ContainsKey(pair.Key * pair.Key))
                 {
                     return false;
                 }
-                if(frequencyCounter2[key.Key * key.Key] != frequencyCounter1[key.Key])
+                if(frequencyCounter2[pair.Key * pair.Key] != frequencyCounter1[pair.Key])
                 {
                     return false;
                 }
