@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountUniqueValues\bin\Debug\netcoreapp3.1\CountUniqueValues.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountUniqueValues\bin\Debug\netcoreapp3.1\CountUniqueValues.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountUniqueValues\bin\Debug\netcoreapp3.1\CountUniqueValues.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountUniqueValues\bin\Debug\netcoreapp3.1\CountUniqueValues.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountUniqueValues\bin\Debug\netcoreapp3.1\CountUniqueValues.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountUniqueValues\bin\Debug\netcoreapp3.1\CountUniqueValues.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountUniqueValues\obj\Debug\netcoreapp3.1\CountUniqueValues.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountUniqueValues\obj\Debug\netcoreapp3.1\CountUniqueValues.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountUniqueValues\obj\Debug\netcoreapp3.1\CountUniqueValues.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountUniqueValues\obj\Debug\netcoreapp3.1\CountUniqueValues.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountUniqueValues\obj\Debug\netcoreapp3.1\CountUniqueValues.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountUniqueValues\obj\Debug\netcoreapp3.1\CountUniqueValues.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountUniqueValues\obj\Debug\netcoreapp3.1\CountUniqueValues.genruntimeconfig.cache
