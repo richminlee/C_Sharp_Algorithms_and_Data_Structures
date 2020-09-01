@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SumZero\bin\Debug\netcoreapp3.1\SumZero.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SumZero\bin\Debug\netcoreapp3.1\SumZero.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SumZero\bin\Debug\netcoreapp3.1\SumZero.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SumZero\bin\Debug\netcoreapp3.1\SumZero.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SumZero\bin\Debug\netcoreapp3.1\SumZero.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SumZero\bin\Debug\netcoreapp3.1\SumZero.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SumZero\obj\Debug\netcoreapp3.1\SumZero.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SumZero\obj\Debug\netcoreapp3.1\SumZero.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SumZero\obj\Debug\netcoreapp3.1\SumZero.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SumZero\obj\Debug\netcoreapp3.1\SumZero.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SumZero\obj\Debug\netcoreapp3.1\SumZero.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SumZero\obj\Debug\netcoreapp3.1\SumZero.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SumZero\obj\Debug\netcoreapp3.1\SumZero.genruntimeconfig.cache
