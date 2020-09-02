@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AveragePair\bin\Debug\netcoreapp3.1\AveragePair.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AveragePair\bin\Debug\netcoreapp3.1\AveragePair.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AveragePair\bin\Debug\netcoreapp3.1\AveragePair.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AveragePair\bin\Debug\netcoreapp3.1\AveragePair.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AveragePair\bin\Debug\netcoreapp3.1\AveragePair.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AveragePair\bin\Debug\netcoreapp3.1\AveragePair.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AveragePair\obj\Debug\netcoreapp3.1\AveragePair.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AveragePair\obj\Debug\netcoreapp3.1\AveragePair.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AveragePair\obj\Debug\netcoreapp3.1\AveragePair.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AveragePair\obj\Debug\netcoreapp3.1\AveragePair.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AveragePair\obj\Debug\netcoreapp3.1\AveragePair.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AveragePair\obj\Debug\netcoreapp3.1\AveragePair.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AveragePair\obj\Debug\netcoreapp3.1\AveragePair.genruntimeconfig.cache
