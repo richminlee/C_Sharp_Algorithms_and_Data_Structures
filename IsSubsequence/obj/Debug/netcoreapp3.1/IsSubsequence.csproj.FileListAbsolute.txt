@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\IsSubsequence\bin\Debug\netcoreapp3.1\IsSubsequence.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\IsSubsequence\bin\Debug\netcoreapp3.1\IsSubsequence.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\IsSubsequence\bin\Debug\netcoreapp3.1\IsSubsequence.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\IsSubsequence\bin\Debug\netcoreapp3.1\IsSubsequence.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\IsSubsequence\bin\Debug\netcoreapp3.1\IsSubsequence.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\IsSubsequence\bin\Debug\netcoreapp3.1\IsSubsequence.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\IsSubsequence\obj\Debug\netcoreapp3.1\IsSubsequence.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\IsSubsequence\obj\Debug\netcoreapp3.1\IsSubsequence.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\IsSubsequence\obj\Debug\netcoreapp3.1\IsSubsequence.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\IsSubsequence\obj\Debug\netcoreapp3.1\IsSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\IsSubsequence\obj\Debug\netcoreapp3.1\IsSubsequence.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\IsSubsequence\obj\Debug\netcoreapp3.1\IsSubsequence.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\IsSubsequence\obj\Debug\netcoreapp3.1\IsSubsequence.genruntimeconfig.cache
