@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SameFrequency\bin\Debug\netcoreapp3.1\SameFrequency.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SameFrequency\bin\Debug\netcoreapp3.1\SameFrequency.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SameFrequency\bin\Debug\netcoreapp3.1\SameFrequency.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SameFrequency\bin\Debug\netcoreapp3.1\SameFrequency.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SameFrequency\bin\Debug\netcoreapp3.1\SameFrequency.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SameFrequency\bin\Debug\netcoreapp3.1\SameFrequency.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SameFrequency\obj\Debug\netcoreapp3.1\SameFrequency.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SameFrequency\obj\Debug\netcoreapp3.1\SameFrequency.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SameFrequency\obj\Debug\netcoreapp3.1\SameFrequency.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SameFrequency\obj\Debug\netcoreapp3.1\SameFrequency.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SameFrequency\obj\Debug\netcoreapp3.1\SameFrequency.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SameFrequency\obj\Debug\netcoreapp3.1\SameFrequency.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\SameFrequency\obj\Debug\netcoreapp3.1\SameFrequency.genruntimeconfig.cache
