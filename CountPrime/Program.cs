@@ -7,21 +7,21 @@ namespace CountPrime
     {
         public static int CountPrimes(int n)
         {
-            byte count = 0;
+            bool isPrime = true;
             List<int> prime = new List<int>();
             if (n > 2) prime.Add(2);
-            for (int i = 2; i < n; i++)
+            for (int i = 3; i < n; i++)
             {
                 for (int j = 0; j < prime.Count; j++)
                 {
                     if (i % prime[j] == 0)
                     {
-                        count = 1;
+                        isPrime = false;  
                         break;
                     }
-                    else count = 0;
+                    else isPrime = true;
                 }
-                if (count == 0)
+                if (isPrime == true)
                 {
                     prime.Add(i);
                 }
@@ -30,7 +30,7 @@ namespace CountPrime
         }
         static void Main(string[] args)
         {
-            Console.WriteLine(CountPrimes(10000));
+            Console.WriteLine(CountPrimes(499954));
         }
     }
 }
