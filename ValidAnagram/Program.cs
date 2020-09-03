@@ -12,7 +12,7 @@ namespace ValidAnagram
             var string1Dictionary = new Dictionary<char, int>();
             for (int i = 0; i < input1.Length; i++)
             {
-                
+
                 if (string1Dictionary.ContainsKey(input1[i]))
                 {
                     string1Dictionary[input1[i]]++;
@@ -29,7 +29,7 @@ namespace ValidAnagram
                     return false;
                 }
                 string1Dictionary[input2[i]]--;
-            }           
+            }
             return true;
         }
         static void Main(string[] args)

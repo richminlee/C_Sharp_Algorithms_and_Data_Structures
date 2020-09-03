@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountPrime\bin\Debug\netcoreapp3.1\CountPrime.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountPrime\bin\Debug\netcoreapp3.1\CountPrime.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountPrime\bin\Debug\netcoreapp3.1\CountPrime.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountPrime\bin\Debug\netcoreapp3.1\CountPrime.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountPrime\bin\Debug\netcoreapp3.1\CountPrime.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountPrime\bin\Debug\netcoreapp3.1\CountPrime.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountPrime\obj\Debug\netcoreapp3.1\CountPrime.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountPrime\obj\Debug\netcoreapp3.1\CountPrime.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountPrime\obj\Debug\netcoreapp3.1\CountPrime.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountPrime\obj\Debug\netcoreapp3.1\CountPrime.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountPrime\obj\Debug\netcoreapp3.1\CountPrime.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountPrime\obj\Debug\netcoreapp3.1\CountPrime.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\CountPrime\obj\Debug\netcoreapp3.1\CountPrime.genruntimeconfig.cache

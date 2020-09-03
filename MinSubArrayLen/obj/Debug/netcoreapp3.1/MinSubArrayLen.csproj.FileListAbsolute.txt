@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MinSubArrayLen\bin\Debug\netcoreapp3.1\MinSubArrayLen.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MinSubArrayLen\bin\Debug\netcoreapp3.1\MinSubArrayLen.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MinSubArrayLen\bin\Debug\netcoreapp3.1\MinSubArrayLen.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MinSubArrayLen\bin\Debug\netcoreapp3.1\MinSubArrayLen.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MinSubArrayLen\bin\Debug\netcoreapp3.1\MinSubArrayLen.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MinSubArrayLen\bin\Debug\netcoreapp3.1\MinSubArrayLen.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MinSubArrayLen\obj\Debug\netcoreapp3.1\MinSubArrayLen.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MinSubArrayLen\obj\Debug\netcoreapp3.1\MinSubArrayLen.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MinSubArrayLen\obj\Debug\netcoreapp3.1\MinSubArrayLen.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MinSubArrayLen\obj\Debug\netcoreapp3.1\MinSubArrayLen.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MinSubArrayLen\obj\Debug\netcoreapp3.1\MinSubArrayLen.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MinSubArrayLen\obj\Debug\netcoreapp3.1\MinSubArrayLen.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MinSubArrayLen\obj\Debug\netcoreapp3.1\MinSubArrayLen.genruntimeconfig.cache
