@@ -7,26 +7,46 @@ namespace CountPrime
     {
         public static int CountPrimes(int n)
         {
-            bool isPrime = true;
-            List<int> prime = new List<int>();
-            if (n > 2) prime.Add(2);
-            for (int i = 3; i < n; i++)
+            int result = 0;
+            if (n > 2) result++;
+            for (int i = 3; i < n; i += 2)
             {
-                for (int j = 0; j < prime.Count; j++)
+                int count = 0;
+                for (int j = 2; j < i; j++)
                 {
-                    if (i % prime[j] == 0)
+                    if (i % j == 0)
                     {
-                        isPrime = false;  
                         break;
                     }
-                    else isPrime = true;
+                    if (j >= Math.Sqrt(i))
+                    {
+                        count++;
+                        break;
+                    }
                 }
-                if (isPrime == true)
-                {
-                    prime.Add(i);
-                }
+                if (count > 0) result++;
             }
-            return prime.Count;
+            return result;
+            //bool isPrime = true;
+            //List<int> prime = new List<int>();
+            //if (n > 2) prime.Add(2);
+            //for (int i = 3; i <n; i+=2)
+            //{
+            //    for (int j = 0; j < prime.Count; j++)
+            //    {
+            //        if (i % prime[j] == 0)
+            //        {
+            //            isPrime = false;
+            //            break;
+            //        }
+            //        else isPrime = true;
+            //    }
+            //    if (isPrime == true)
+            //    {
+            //        prime.Add(i);
+            //    }
+            //}
+            //return prime.Count;
         }
         static void Main(string[] args)
         {
