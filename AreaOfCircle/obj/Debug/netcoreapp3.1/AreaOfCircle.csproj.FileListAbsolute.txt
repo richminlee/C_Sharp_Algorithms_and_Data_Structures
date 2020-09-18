@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.genruntimeconfig.cache
