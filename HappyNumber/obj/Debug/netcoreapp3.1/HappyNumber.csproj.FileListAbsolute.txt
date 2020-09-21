@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HappyNumber\bin\Debug\netcoreapp3.1\HappyNumber.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HappyNumber\bin\Debug\netcoreapp3.1\HappyNumber.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HappyNumber\bin\Debug\netcoreapp3.1\HappyNumber.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HappyNumber\bin\Debug\netcoreapp3.1\HappyNumber.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HappyNumber\bin\Debug\netcoreapp3.1\HappyNumber.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HappyNumber\bin\Debug\netcoreapp3.1\HappyNumber.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HappyNumber\obj\Debug\netcoreapp3.1\HappyNumber.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HappyNumber\obj\Debug\netcoreapp3.1\HappyNumber.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HappyNumber\obj\Debug\netcoreapp3.1\HappyNumber.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HappyNumber\obj\Debug\netcoreapp3.1\HappyNumber.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HappyNumber\obj\Debug\netcoreapp3.1\HappyNumber.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HappyNumber\obj\Debug\netcoreapp3.1\HappyNumber.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\HappyNumber\obj\Debug\netcoreapp3.1\HappyNumber.genruntimeconfig.cache
