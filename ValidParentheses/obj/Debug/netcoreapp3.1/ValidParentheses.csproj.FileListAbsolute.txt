@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.genruntimeconfig.cache
