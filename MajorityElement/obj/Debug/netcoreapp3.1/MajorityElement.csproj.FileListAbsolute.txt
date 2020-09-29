@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MajorityElement\obj\Debug\netcoreapp3.1\MajorityElement.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MajorityElement\obj\Debug\netcoreapp3.1\MajorityElement.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MajorityElement\obj\Debug\netcoreapp3.1\MajorityElement.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MajorityElement\obj\Debug\netcoreapp3.1\MajorityElement.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MajorityElement\bin\Debug\netcoreapp3.1\MajorityElement.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MajorityElement\bin\Debug\netcoreapp3.1\MajorityElement.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MajorityElement\bin\Debug\netcoreapp3.1\MajorityElement.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MajorityElement\bin\Debug\netcoreapp3.1\MajorityElement.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MajorityElement\bin\Debug\netcoreapp3.1\MajorityElement.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MajorityElement\bin\Debug\netcoreapp3.1\MajorityElement.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MajorityElement\obj\Debug\netcoreapp3.1\MajorityElement.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MajorityElement\obj\Debug\netcoreapp3.1\MajorityElement.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\MajorityElement\obj\Debug\netcoreapp3.1\MajorityElement.genruntimeconfig.cache
