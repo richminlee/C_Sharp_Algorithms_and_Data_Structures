@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Sqrt\bin\Debug\netcoreapp3.1\Sqrt.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Sqrt\bin\Debug\netcoreapp3.1\Sqrt.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Sqrt\bin\Debug\netcoreapp3.1\Sqrt.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Sqrt\bin\Debug\netcoreapp3.1\Sqrt.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Sqrt\bin\Debug\netcoreapp3.1\Sqrt.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Sqrt\bin\Debug\netcoreapp3.1\Sqrt.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Sqrt\obj\Debug\netcoreapp3.1\Sqrt.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Sqrt\obj\Debug\netcoreapp3.1\Sqrt.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Sqrt\obj\Debug\netcoreapp3.1\Sqrt.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Sqrt\obj\Debug\netcoreapp3.1\Sqrt.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Sqrt\obj\Debug\netcoreapp3.1\Sqrt.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Sqrt\obj\Debug\netcoreapp3.1\Sqrt.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\Sqrt\obj\Debug\netcoreapp3.1\Sqrt.genruntimeconfig.cache
