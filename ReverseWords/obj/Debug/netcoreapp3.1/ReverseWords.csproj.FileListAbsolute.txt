@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseWords\obj\Debug\netcoreapp3.1\ReverseWords.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseWords\obj\Debug\netcoreapp3.1\ReverseWords.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseWords\obj\Debug\netcoreapp3.1\ReverseWords.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseWords\obj\Debug\netcoreapp3.1\ReverseWords.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseWords\bin\Debug\netcoreapp3.1\ReverseWords.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseWords\bin\Debug\netcoreapp3.1\ReverseWords.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseWords\bin\Debug\netcoreapp3.1\ReverseWords.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseWords\bin\Debug\netcoreapp3.1\ReverseWords.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseWords\bin\Debug\netcoreapp3.1\ReverseWords.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseWords\bin\Debug\netcoreapp3.1\ReverseWords.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseWords\obj\Debug\netcoreapp3.1\ReverseWords.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseWords\obj\Debug\netcoreapp3.1\ReverseWords.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseWords\obj\Debug\netcoreapp3.1\ReverseWords.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\WhiteboardingDuringClass\bin\Debug\netcoreapp3.1\WhiteboardingDuringClass.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\WhiteboardingDuringClass\bin\Debug\netcoreapp3.1\WhiteboardingDuringClass.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\WhiteboardingDuringClass\bin\Debug\netcoreapp3.1\WhiteboardingDuringClass.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\WhiteboardingDuringClass\bin\Debug\netcoreapp3.1\WhiteboardingDuringClass.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\WhiteboardingDuringClass\bin\Debug\netcoreapp3.1\WhiteboardingDuringClass.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\WhiteboardingDuringClass\bin\Debug\netcoreapp3.1\WhiteboardingDuringClass.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\WhiteboardingDuringClass\obj\Debug\netcoreapp3.1\WhiteboardingDuringClass.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\WhiteboardingDuringClass\obj\Debug\netcoreapp3.1\WhiteboardingDuringClass.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\WhiteboardingDuringClass\obj\Debug\netcoreapp3.1\WhiteboardingDuringClass.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\WhiteboardingDuringClass\obj\Debug\netcoreapp3.1\WhiteboardingDuringClass.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\WhiteboardingDuringClass\obj\Debug\netcoreapp3.1\WhiteboardingDuringClass.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\WhiteboardingDuringClass\obj\Debug\netcoreapp3.1\WhiteboardingDuringClass.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\WhiteboardingDuringClass\obj\Debug\netcoreapp3.1\WhiteboardingDuringClass.genruntimeconfig.cache
