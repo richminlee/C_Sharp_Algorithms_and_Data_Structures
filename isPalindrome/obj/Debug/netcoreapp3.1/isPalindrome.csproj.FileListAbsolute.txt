@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\isPalindrome\bin\Debug\netcoreapp3.1\isPalindrome.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\isPalindrome\bin\Debug\netcoreapp3.1\isPalindrome.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\isPalindrome\bin\Debug\netcoreapp3.1\isPalindrome.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\isPalindrome\bin\Debug\netcoreapp3.1\isPalindrome.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\isPalindrome\bin\Debug\netcoreapp3.1\isPalindrome.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\isPalindrome\bin\Debug\netcoreapp3.1\isPalindrome.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\isPalindrome\obj\Debug\netcoreapp3.1\isPalindrome.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\isPalindrome\obj\Debug\netcoreapp3.1\isPalindrome.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\isPalindrome\obj\Debug\netcoreapp3.1\isPalindrome.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\isPalindrome\obj\Debug\netcoreapp3.1\isPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\isPalindrome\obj\Debug\netcoreapp3.1\isPalindrome.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\isPalindrome\obj\Debug\netcoreapp3.1\isPalindrome.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\isPalindrome\obj\Debug\netcoreapp3.1\isPalindrome.genruntimeconfig.cache
