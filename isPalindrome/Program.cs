@@ -31,7 +31,7 @@ namespace isPalindrome
         }
         static void Main(string[] args)
         {
-            Console.WriteLine(FindPalindrome("Rac....e ca%r"));
+            Console.WriteLine(FindPalindrome(".,"));
         }
     }
 }
