@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leeri\\Desktop\\Algorithms\\C_Sharp_Algorithms_and_Data_Structures\\SinglyLinkedList\\SinglyLinkedList.csproj",
-      "projectName": "SinglyLinkedList",
-      "projectPath": "C:\\Users\\leeri\\Desktop\\Algorithms\\C_Sharp_Algorithms_and_Data_Structures\\SinglyLinkedList\\SinglyLinkedList.csproj",
+      "projectUniqueName": "C:\\Users\\leeri\\Desktop\\Algorithms\\C_Sharp_Algorithms_and_Data_Structures\\sockMerchant\\sockMerchant.csproj",
+      "projectName": "sockMerchant",
+      "projectPath": "C:\\Users\\leeri\\Desktop\\Algorithms\\C_Sharp_Algorithms_and_Data_Structures\\sockMerchant\\sockMerchant.csproj",
       "packagesPath": "C:\\Users\\leeri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leeri\\Desktop\\Algorithms\\C_Sharp_Algorithms_and_Data_Structures\\SinglyLinkedList\\obj\\",
+      "outputPath": "C:\\Users\\leeri\\Desktop\\Algorithms\\C_Sharp_Algorithms_and_Data_Structures\\sockMerchant\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

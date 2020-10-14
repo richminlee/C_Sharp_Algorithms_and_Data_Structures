@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\sockMerchant\bin\Debug\netcoreapp3.1\sockMerchant.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\sockMerchant\bin\Debug\netcoreapp3.1\sockMerchant.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\sockMerchant\bin\Debug\netcoreapp3.1\sockMerchant.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\sockMerchant\bin\Debug\netcoreapp3.1\sockMerchant.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\sockMerchant\bin\Debug\netcoreapp3.1\sockMerchant.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\sockMerchant\bin\Debug\netcoreapp3.1\sockMerchant.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\sockMerchant\obj\Debug\netcoreapp3.1\sockMerchant.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\sockMerchant\obj\Debug\netcoreapp3.1\sockMerchant.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\sockMerchant\obj\Debug\netcoreapp3.1\sockMerchant.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\sockMerchant\obj\Debug\netcoreapp3.1\sockMerchant.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\sockMerchant\obj\Debug\netcoreapp3.1\sockMerchant.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\sockMerchant\obj\Debug\netcoreapp3.1\sockMerchant.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\sockMerchant\obj\Debug\netcoreapp3.1\sockMerchant.genruntimeconfig.cache
