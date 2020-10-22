@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseList\bin\Debug\netcoreapp3.1\ReverseList.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseList\bin\Debug\netcoreapp3.1\ReverseList.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseList\bin\Debug\netcoreapp3.1\ReverseList.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseList\bin\Debug\netcoreapp3.1\ReverseList.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseList\bin\Debug\netcoreapp3.1\ReverseList.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseList\bin\Debug\netcoreapp3.1\ReverseList.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseList\obj\Debug\netcoreapp3.1\ReverseList.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseList\obj\Debug\netcoreapp3.1\ReverseList.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseList\obj\Debug\netcoreapp3.1\ReverseList.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseList\obj\Debug\netcoreapp3.1\ReverseList.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseList\obj\Debug\netcoreapp3.1\ReverseList.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseList\obj\Debug\netcoreapp3.1\ReverseList.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\ReverseList\obj\Debug\netcoreapp3.1\ReverseList.genruntimeconfig.cache
