@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FindWords\bin\Debug\netcoreapp3.1\FindWords.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FindWords\bin\Debug\netcoreapp3.1\FindWords.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FindWords\bin\Debug\netcoreapp3.1\FindWords.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FindWords\bin\Debug\netcoreapp3.1\FindWords.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FindWords\bin\Debug\netcoreapp3.1\FindWords.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FindWords\bin\Debug\netcoreapp3.1\FindWords.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FindWords\obj\Debug\netcoreapp3.1\FindWords.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FindWords\obj\Debug\netcoreapp3.1\FindWords.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FindWords\obj\Debug\netcoreapp3.1\FindWords.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FindWords\obj\Debug\netcoreapp3.1\FindWords.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FindWords\obj\Debug\netcoreapp3.1\FindWords.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FindWords\obj\Debug\netcoreapp3.1\FindWords.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FindWords\obj\Debug\netcoreapp3.1\FindWords.genruntimeconfig.cache
