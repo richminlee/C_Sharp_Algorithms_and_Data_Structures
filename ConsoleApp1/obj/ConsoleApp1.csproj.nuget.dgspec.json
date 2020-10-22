@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leeri\\Desktop\\Algorithms\\C_Sharp_Algorithms_and_Data_Structures\\MajorityElement\\MajorityElement.csproj": {}
+    "C:\\Users\\leeri\\Desktop\\Algorithms\\C_Sharp_Algorithms_and_Data_Structures\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leeri\\Desktop\\Algorithms\\C_Sharp_Algorithms_and_Data_Structures\\MajorityElement\\MajorityElement.csproj": {
+    "C:\\Users\\leeri\\Desktop\\Algorithms\\C_Sharp_Algorithms_and_Data_Structures\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leeri\\Desktop\\Algorithms\\C_Sharp_Algorithms_and_Data_Structures\\MajorityElement\\MajorityElement.csproj",
-        "projectName": "MajorityElement",
-        "projectPath": "C:\\Users\\leeri\\Desktop\\Algorithms\\C_Sharp_Algorithms_and_Data_Structures\\MajorityElement\\MajorityElement.csproj",
+        "projectUniqueName": "C:\\Users\\leeri\\Desktop\\Algorithms\\C_Sharp_Algorithms_and_Data_Structures\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "C:\\Users\\leeri\\Desktop\\Algorithms\\C_Sharp_Algorithms_and_Data_Structures\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\leeri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leeri\\Desktop\\Algorithms\\C_Sharp_Algorithms_and_Data_Structures\\MajorityElement\\obj\\",
+        "outputPath": "C:\\Users\\leeri\\Desktop\\Algorithms\\C_Sharp_Algorithms_and_Data_Structures\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

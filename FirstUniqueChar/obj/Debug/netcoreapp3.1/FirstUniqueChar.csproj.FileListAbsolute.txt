@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FirstUniqueChar\bin\Debug\netcoreapp3.1\FirstUniqueChar.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FirstUniqueChar\bin\Debug\netcoreapp3.1\FirstUniqueChar.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FirstUniqueChar\bin\Debug\netcoreapp3.1\FirstUniqueChar.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FirstUniqueChar\bin\Debug\netcoreapp3.1\FirstUniqueChar.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FirstUniqueChar\bin\Debug\netcoreapp3.1\FirstUniqueChar.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FirstUniqueChar\bin\Debug\netcoreapp3.1\FirstUniqueChar.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FirstUniqueChar\obj\Debug\netcoreapp3.1\FirstUniqueChar.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FirstUniqueChar\obj\Debug\netcoreapp3.1\FirstUniqueChar.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FirstUniqueChar\obj\Debug\netcoreapp3.1\FirstUniqueChar.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FirstUniqueChar\obj\Debug\netcoreapp3.1\FirstUniqueChar.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FirstUniqueChar\obj\Debug\netcoreapp3.1\FirstUniqueChar.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FirstUniqueChar\obj\Debug\netcoreapp3.1\FirstUniqueChar.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\FirstUniqueChar\obj\Debug\netcoreapp3.1\FirstUniqueChar.genruntimeconfig.cache

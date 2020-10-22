@@ -22,9 +22,9 @@ namespace MajorityElement
         //    }
         //    int compare = 0;
         //    int result = 0;
-        //    foreach(int num in numsDict.Keys)
+        //    foreach (int num in numsDict.Keys)
         //    {
-        //        if(compare < numsDict[num])
+        //        if (compare < numsDict[num])
         //        {
         //            compare = numsDict[num];
         //            result = num;
@@ -62,11 +62,11 @@ namespace MajorityElement
             int result = 0;
             for (int i = 0; i < nums.Length; i++)
             {
-                if(count == 0)
+                if (count == 0)
                 {
                     result = nums[i];
                 }
-                if(nums[i] == result)
+                if (nums[i] == result)
                 {
                     count++;
                 }
