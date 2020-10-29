@@ -1,0 +1,15 @@
+    public static int countingValleys(int steps, string path)
+    {
+        int lvl = 0;
+        int numOfValleys = 0;
+        bool aboveSeaLvl = false;
+        for(int i = 0; i < steps; i++)
+        {
+            if(lvl >= 0) aboveSeaLvl = true;
+            else if(lvl < 0) aboveSeaLvl = false;
+            if(path[i] == 'D') lvl--;
+            else if(path[i] == 'U')lvl++;
+            if(aboveSeaLvl == true && lvl < 0)numOfValleys++;
+        }
+        return numOfValleys;
+    }
