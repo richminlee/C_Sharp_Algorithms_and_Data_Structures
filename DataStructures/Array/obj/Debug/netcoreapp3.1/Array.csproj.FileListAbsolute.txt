@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\DataStructures\Array\bin\Debug\netcoreapp3.1\Array.exe
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\DataStructures\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\DataStructures\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\DataStructures\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\DataStructures\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\DataStructures\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\DataStructures\Array\obj\Debug\netcoreapp3.1\Array.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\DataStructures\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\DataStructures\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\DataStructures\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\DataStructures\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\DataStructures\Array\obj\Debug\netcoreapp3.1\Array.pdb
+C:\Users\leeri\Desktop\Algorithms\C_Sharp_Algorithms_and_Data_Structures\DataStructures\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache
