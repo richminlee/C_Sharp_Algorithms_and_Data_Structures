@@ -22,11 +22,25 @@ namespace ReverseList
                 runner = runner.next;
             } 
         }
+        //public static ListNode ReverseList(ListNode head)
+        //{
+        //    ListNode pivot = head;
+        //    ListNode walker = null;
+        //    while (pivot != null)
+        //    {
+        //        ListNode runner = pivot.next;
+        //        pivot.next = walker;
+        //        walker = pivot;
+        //        pivot = runner;
+        //    }
+        //    return walker;
+        //}
+
         public static ListNode ReverseList(ListNode head)
         {
             ListNode pivot = head;
             ListNode walker = null;
-            while (pivot != null)
+            while(pivot != null)
             {
                 ListNode runner = pivot.next;
                 pivot.next = walker;
@@ -34,7 +48,12 @@ namespace ReverseList
                 pivot = runner;
             }
             return walker;
+
         }
+
+
+
+
         static void Main(string[] args)
         {
             ListNode five = new ListNode(5);
